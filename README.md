@@ -24,18 +24,8 @@ For live preview visit the Github hosted page by clicking <a href="https://thiru
 
 To run the calculator app locally on your machine, follow these steps:
 
-1. Make sure you have Node.js installed on your machine.
-2. Clone this repository or download the source code.
-3. Open a terminal and navigate to the project directory.
-4. Run the following command to install the project dependencies:
-   ```terminal
-   npm install
-   ```
-5. Once the installation is complete, start the development server with the following command:
-   ```terminal
-   npm start
-   ```
-6. Open your web browser and visit `http://localhost:3000` to see the calculator app in action.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
 ## Usage
 
